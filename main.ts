@@ -1,11 +1,11 @@
 import { writeFileSync } from "node:fs";
 import { join } from "node:path";
 
-const text = `put the stack down a moment.
+const text = `put the stack down.
 
-nothing here needs you fast. the entries keep. the lamp is not going anywhere, and neither is the chair.
+nothing here needs you fast. the entries keep. the lamp is staying, so is the chair.
 
-breathe out longer than you breathe in. that is the whole trick, it costs nothing, and nobody is grading you on it.
+breathe out longer than you breathe in. that is the whole trick. it costs nothing.
 
 then read the next one like it was written by someone nervous. it was.`;
 
